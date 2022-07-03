@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "deploy": "NODE_ENV=production postcss css/app.css -o ../priv/static/assets/app.css"
+  },
+  "devDependencies": {
+    "@tailwindcss/nesting": "^0.0.0-insiders.565cd3e",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.13",
+    "postcss-cli": "^9.1.0",
+    "postcss-import": "^14.1.0",
+    "postcss-nesting": "^10.1.10",
+    "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "alpinejs": "^3.10.2",
+    "daisyui": "^2.14.3",
+    "topbar": "^1.0.1"
+  }
+}
