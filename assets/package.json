@@ -9,7 +9,7 @@
     "postcss-cli": "^10.0.0",
     "postcss-import": "^14.1.0",
     "postcss-nesting": "^10.1.10",
-    "prettier": "^2.7.1"
+    "prettier": "^2.8.2"
   },
   "dependencies": {
     "alpinejs": "^3.10.2",
