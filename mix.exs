@@ -47,7 +47,7 @@ defmodule Primestate.MixProject do
       {:excoveralls, "~> 0.14 and >= 0.14.4", only: [:test]},
       {:ex_aws, "~> 2.1"},
       {:ex_aws_s3, "~> 2.0"},
-      {:ex_doc, "~> 0.28.4", only: [:dev], runtime: false},
+      {:ex_doc, "~> 0.29.2", only: [:dev], runtime: false},
       {:ex_machina, "~> 2.7.0"},
       {:floki, ">= 0.30.0"},
       {:gettext, "~> 0.18"},
